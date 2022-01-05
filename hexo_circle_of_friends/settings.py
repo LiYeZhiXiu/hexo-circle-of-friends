@@ -95,9 +95,9 @@ SETTINGS_FRIENDS_LINKS={
 # get links from gitee
 # get links from gitee
 GITEE_FRIENDS_LINKS={
-    "enable": False,    # True 开启gitee issue兼容
+    "enable": True,    # True 开启gitee issue兼容
     "type": "normal",  # volantis用户请在这里填写 volantis
-    "owner": "ccknbc",  # 填写你的gitee用户名
+    "owner": "huyimin1998",  # 填写你的gitee用户名
     "repo": "blogroll",  # 填写你的gitee仓库名
     "state": "open"  # 填写抓取的issue状态(open/closed)
 }
